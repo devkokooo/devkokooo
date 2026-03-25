@@ -2,7 +2,7 @@
 - [kisacraft.com](https://kisacraft.com) - Kisacraft website
   - mc.kisacraft.com - [tinykisa](https://twitch.tv/tinykisa)'s sub-only Minecraft server
   - [map.kisacraft.com](https://map.kisacraft.com) - Live 3D server map
-- **LoreStats** (WIP) - updated Minecraft plugin of [MetaStats](https://hangar.papermc.io/GabrielSyay/MetaStats), but fixes counter reset bug and includes new copper items & spears
+- **LoreStats** (WIP) - Minecraft plugin inspired by [MetaStats](https://hangar.papermc.io/GabrielSyay/MetaStats) (reverse engineered), but updated to fix counter reset bug and include new copper items & spears
 - [suika](https://github.com/devkokooo/suika) (WIP) - the famous fruit merging game, made by me
 - [PianoMIDI](https://github.com/devkokooo/pianomidi) (WIP) - Synthesia-styled virtual MIDI piano
   - [Video Showcase: Me playing Weeping Willow by Scott Joplin](https://www.youtube.com/watch?v=LcG5a1dWKxA)

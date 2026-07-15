@@ -16,6 +16,10 @@
 - [Shapes + Mineflayer Minecraft AI Companion](https://github.com/devkokooo/shape-minecraft-mineflayer) - LLM-to-Minecraft API connector & agent control via tool use
   - [X Post / Video Showcase: AI follows instructions and collects resources](https://x.com/DevKokooo/status/1931043092112502831)
   - [X Post / Image Showcase: Custom logging & comparing tool use in different models](https://x.com/DevKokooo/status/1932293469470347304)
+
+## Ideas
+- License key management system for SaaS builders
+- Circular time & calendar scheduling for better visualization and UX
 ---
 
 **_I just need to lock in_**

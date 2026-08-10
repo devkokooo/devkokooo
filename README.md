@@ -1,5 +1,6 @@
 ## SaaS Products
 - [Momentum](https://momentum.forgeware.dev) - Local-first progress tracker that tracks overall progress. No streaks. No guilt.
+- **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
 
 ## Projects
 - [95-http-server](https://github.com/devkokooo/95-http-server) - building my own HTTP server from scratch using the [95ninefive.dev](https://95ninefive.dev) platform as a judge

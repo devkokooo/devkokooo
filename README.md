@@ -20,7 +20,6 @@
 
 ## Ideas
 - License key management system for SaaS builders
-- Circular time & calendar scheduling for better visualization and UX
 ---
 
 **_I just need to lock in_**

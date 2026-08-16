@@ -1,12 +1,12 @@
-## SaaS Products
-- [Momentum](https://momentum.forgeware.dev) - Local-first progress tracker that tracks overall progress. No streaks. No guilt.
-- **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
-
 ## Projects
 - [Timestream](https://github.com/devkokooo/timestream) - a post-modern Git client, in the style of the TVA
+- [Momentum](https://momentum.forgeware.dev) - Local-first progress tracker that tracks overall progress. No streaks. No guilt.
 - [kisacraft.com](https://kisacraft.com) - Kisacraft website
   - mc.kisacraft.com - [tinykisa](https://twitch.tv/tinykisa)'s sub-only Minecraft server
   - [map.kisacraft.com](https://map.kisacraft.com) - Live 3D server map
+- **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
+
+## Experiments
 - [95-http-server](https://github.com/devkokooo/95-http-server) - building my own HTTP server from scratch using the [95ninefive.dev](https://95ninefive.dev) platform as a judge
 - [PianoMIDI](https://github.com/devkokooo/pianomidi) - Synthesia-styled virtual MIDI piano
   - [Video Showcase: Me playing Weeping Willow by Scott Joplin](https://www.youtube.com/watch?v=LcG5a1dWKxA)

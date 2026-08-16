@@ -3,11 +3,11 @@
 - **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
 
 ## Projects
-- [95-http-server](https://github.com/devkokooo/95-http-server) - building my own HTTP server from scratch using the [95ninefive.dev](https://95ninefive.dev) platform as a judge
-- [suika](https://github.com/devkokooo/suika) - the famous fruit merging game, but made by me
+- [Timestream](https://github.com/devkokooo/timestream) - a post-modern Git client, in the style of the TVA
 - [kisacraft.com](https://kisacraft.com) - Kisacraft website
   - mc.kisacraft.com - [tinykisa](https://twitch.tv/tinykisa)'s sub-only Minecraft server
   - [map.kisacraft.com](https://map.kisacraft.com) - Live 3D server map
+- [95-http-server](https://github.com/devkokooo/95-http-server) - building my own HTTP server from scratch using the [95ninefive.dev](https://95ninefive.dev) platform as a judge
 - [PianoMIDI](https://github.com/devkokooo/pianomidi) - Synthesia-styled virtual MIDI piano
   - [Video Showcase: Me playing Weeping Willow by Scott Joplin](https://www.youtube.com/watch?v=LcG5a1dWKxA)
   - [Video Showcase: Me playing The Chrysanthemum by Scott Joplin](https://www.youtube.com/watch?v=lAYqVz0QENg)

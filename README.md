@@ -20,6 +20,9 @@
 
 ## Ideas
 - License key management system for SaaS builders
+
+## Fun Stuff
+- [A pirate themed song I made at 4 am](https://www.youtube.com/shorts/NstsLvRBIpM)
 ---
 
 **_I just need to lock in_**

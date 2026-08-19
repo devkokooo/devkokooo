@@ -23,6 +23,9 @@
 
 ## Fun Stuff
 - [A pirate themed song I made at 4 am](https://www.youtube.com/shorts/NstsLvRBIpM)
+
+## Resources I'm Collecting
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - good OS book
 ---
 
 **_I just need to lock in_**

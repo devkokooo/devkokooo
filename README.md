@@ -26,6 +26,25 @@
 
 ## Resources I'm Collecting
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - good OS book
+
+**ML papers to implement** (thanks [PaperCode](https://papercode.in))
+- [(1980) Recurrent Neural Networks (RNNs)](https://arxiv.org/abs/1912.05911) - implementing core RNN components from scratch: RNN cells, forward/backward passes, BPTT, initialization, padding utilities, gradient clipping, embeddings, full RNN blocks
+- [(1995) Support Vector Machines](https://link.springer.com/article/10.1007/BF00994018) - margin-based learning algorithm for classification, implementing the soft-margin SVM formulation and kernel tricks for non-linear decision boundaries
+- [(1997) Long Short-Term Memory Networks](https://www.bioinf.jku.at/publications/older/2604.pdf) - implement core LSTM components from scratch: LSTM cells with gates, forward/backward passes, BPTT, initialization, dropout masks, packed sequences, bidirectional LSTMs, full LSTM blocks
+- [(2001) Random Forests](https://link.springer.com/article/10.1023/A:1010933404324) - ensemble learning method using decision trees for classification and regression, with bagging and random feature selection
+- [(2012) ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) - the AlexNet paper that revolutionized computer vision with deep CNNs. Implementing core CNN components from scratch: convolution, ReLu activation, max pooling, local response normalization, etc
+- [(2013) Word2Vec](https://arxiv.org/abs/1301.3781) - efficient distributed representations of words using shallow neural networks, introducing skip-gram and CBOW models
+- [(2013) Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - introduces the variational autoencoder (VAE), a deep generative model that learns a latent variable space using the reparameterization trick
+- [(2014) Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - framework for estimating generative models via an adversarial process
+- [(2015) Human-level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236) - deep Q-Network (DQN) combining Q-learning with deep neural networks for end-to-end learning of action values from raw pixels
+- [(2017) Attention is All You Need](https://arxiv.org/abs/1706.03762) - transformer model architecture, replacing RNNs and CNNs with self-attention mechanisms
+- [(2018) World Models](https://arxiv.org/abs/1803.10122) - generative RNN that learns spatial and temporal representations of a reinforcement learning environment
+- [(2018) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - bidirectional encoder representation from transformers, uses masked language modeling and next sentence prediction for pre-training
+- [(2020) Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) - an image is worth 16x16 words: transformers for image recognition at scale - applying transformers directly to image patches for vision tasks
+- [(2021) LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) - efficient fine-tuning of large models using low-rank decomposition of weight updates
+- [(2022) OWL-ViT: Open-Vocabulary Object Detection using Vision Transformers](https://arxiv.org/abs/2205.06230) - open-vocab object detection using vision transformers with text prompts
+- [(2022) Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) - learning a single embedding space with nested sub-embeddings that support multiple effective representation dimensions, enabling adaptive computation without retraining
+- [(2025) Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871) - recursive reasoning with tiny networks, focusing on latent state updates and answer refinement
 ---
 
 **_I just need to lock in_**

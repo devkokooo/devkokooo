@@ -4,7 +4,6 @@
 - [🌸 kisacraft.com](https://kisacraft.com) - Kisacraft website
   - mc.kisacraft.com - [tinykisa](https://twitch.tv/tinykisa)'s sub-only Minecraft server
   - [map.kisacraft.com](https://map.kisacraft.com) - Live 3D server map
-- **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
 
 ## Experiments
 - [95-http-server](https://github.com/devkokooo/95-http-server) - building my own HTTP server from scratch using the [95ninefive.dev](https://95ninefive.dev) platform as a judge
@@ -50,6 +49,11 @@
 | 2022 | [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147) | Learning a single embedding space with nested sub-embeddings that support multiple effective representation dimensions, enabling adaptive computation without retraining |
 | 2025 | [Less is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871) | Recursive reasoning with tiny networks, focusing on latent state updates and answer refinement |
 
+</details>
+
+<details>
+<summary><strong>🪦 Project Graveyard 💀</strong></summary>
+- **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm
 </details>
 ---
 

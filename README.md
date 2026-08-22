@@ -1,7 +1,7 @@
 ## Projects
-- [Timestream](https://timestream.vc) - Local-first Git client, TVA-styled, with GitHub integration.
-- [Momentum](https://momentum.forgeware.dev) - Local-first progress tracker that tracks overall progress. No streaks. No guilt.
-- [kisacraft.com](https://kisacraft.com) - Kisacraft website
+- [🕰️ Timestream](https://timestream.vc) - Local-first Git client, TVA-styled, with GitHub integration.
+- [♾️ Momentum](https://momentum.forgeware.dev) - Local-first progress tracker that tracks overall progress. No streaks. No guilt.
+- [🌸 kisacraft.com](https://kisacraft.com) - Kisacraft website
   - mc.kisacraft.com - [tinykisa](https://twitch.tv/tinykisa)'s sub-only Minecraft server
   - [map.kisacraft.com](https://map.kisacraft.com) - Live 3D server map
 - **Circadia** (WIP) - Google calendar client that maps events to your natural circadian rhythm

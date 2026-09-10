@@ -25,6 +25,8 @@
 
 ## Resources I'm Collecting
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - good OS book
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - good network programming book
+- [DeepML](https://www.deep-ml.com/) - practice implementing machine learning from scratch
 
 <details>
 <summary><strong>ML papers to implement</strong> (thanks <a href="https://papercode.in">PaperCode</a>)</summary>
